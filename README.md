@@ -28,11 +28,6 @@ The number plate recognition module uses Optical Character Recognition (OCR) tec
 - Detect number plates on vehicles.
 - Recognize the characters and display the number plate information in real-time.
 
-## Dataset
--Acquired a comprehensive dataset from online sources containing 120 images with complete rider information, including the rider, helmet presence, and visible number plate and annotated it.
-
-[Dataset](https://www.kaggle.com/datasets/aneesarom/rider-with-helmet-without-helmet-number-plate/data)
-
 ## Archietecture Used
 - YOLO
 - PaddleOcr
